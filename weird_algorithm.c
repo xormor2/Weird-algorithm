@@ -9,7 +9,7 @@ int main()
 	int64_t input_number=0;
 	input_number=ask_for_number();
 	apply_weird_algorithm_to_number(input_number);
-return 0;
+	return 0;
 }
 int64_t ask_for_number()
 {
